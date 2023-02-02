@@ -1,0 +1,51 @@
+.title1:after {
+  position: absolute;
+  left: 0;
+  bottom: -15px;
+  right: 0;
+  height: 4px;
+  width: 90px;
+  background: #7fad39;
+  content: "";
+  margin: 0 auto;
+}
+
+.title2:after {
+  position: absolute;
+  left: 0;
+  bottom: -15px;
+  right: 0;
+  height: 4px;
+  width: 100px;
+  background: #7fad39;
+  content: "";
+  margin: 0 auto;
+}
+.footer_social a {
+  display: inline-block;
+  height: 41px;
+  width: 41px;
+  font-size: 16px;
+  color: #404040;
+  border: 1px solid #ededed;
+  border-radius: 50%;
+  line-height: 38px;
+  text-align: center;
+  background: #ffffff;
+  transition: all, 0.3s;
+  margin-right: 10px;
+}
+.butt {
+  font-size: 14px;
+  color: #ffffff;
+  font-weight: 800;
+  text-transform: uppercase;
+  display: inline-block;
+  padding: 13px 30px 12px;
+  background: #7fad39;
+  border: none;
+}
+
+.btn {
+  font-size: large;
+}
